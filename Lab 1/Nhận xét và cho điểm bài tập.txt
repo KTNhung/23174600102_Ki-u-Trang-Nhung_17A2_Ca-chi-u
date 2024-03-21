@@ -1,0 +1,34 @@
++ Ảnh kết quả của từng bài em nên để dưới file để cô tiện theo dõi, để folder riêng như vậy thì ở mỗi bài cô lại phải mở folder để xem, khá bất tiện. File ảnh em cũng nên để tên theo từng bài nhé.
+
++ Nhận xét và cho điểm từng bài tập:
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: đúng
+Điểm bài tập: 1.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0
+
+- Bài 4: diện tích xung quanh của chóp tứ giác đều: 1/2 x chu vi đáy x chiều cao = 1/2 x 4 x a x b
+Điểm bài tập: 0.75
+
+- Bài 5: đơn vị của công suất là W, tuy nhiên giá tiền điện là kW/h. Bởi vậy em phải đổi đơn vị công suất ra kW bằng cách chia 1000
+Điểm bài tập: 0.75
+
+- Bài 6: đúng 
+Điểm bài tập: 1.0 
+
+- Bài 7: đúng 
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng
+Điểm bài tập: 1.0
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: 
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 1: 9.5
