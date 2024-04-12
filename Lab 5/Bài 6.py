@@ -7,13 +7,13 @@ for i in n:
         break
         
 
-str = ""
+str = 0
 for i in n:
     if i.isalnum():
         continue
     else:
-        str += i
+        str += 1
+ty_le = (str/(len(n)))*100
+print(f"Số ký tự đặc biệt xuất hiện trong chuỗi là {str} với tỷ lệ xuất hiện {ty_le:.2f}%")
 
-for j in str: 
-    a = str.count(j)
-    print(f"Số lần xuất hiện của ký tự {j} là {a}")
+
