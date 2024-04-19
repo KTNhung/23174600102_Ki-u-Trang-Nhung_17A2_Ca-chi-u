@@ -20,5 +20,5 @@ while S < 1000:
 print("Các số đã nhập từ bàn phím là:", da_nhap)
 print("Các số chẵn đã nhập:", chan)
 print("Các số lẻ đã nhập:", le)
-print("Số lượng các số nguyên đã nhập:", dem)
+print("Số lượng các số nguyên đãư nhập:", dem)
         
