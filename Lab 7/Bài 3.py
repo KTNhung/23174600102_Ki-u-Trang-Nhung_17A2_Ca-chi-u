@@ -46,5 +46,5 @@ for i in dic:
             key = i   
 print(f"Từ xuất hiện ít nhất là {key} với tần suất {min}")
 
-'''print(f'Tỉ lệ từ {max(dic, key = dic.get)} nhiều nhất với tần suất {max(dic.values())}')
+'''print(f'Tỉ lệ từ {max(dic, key = dic.get())} nhiều nhất với tần suất {max(dic.values())}')
 print(f'Tỉ lệ từ {min(dic, key = dic.get)} nhiều nhất với tần suất {min(dic.values())}')'''

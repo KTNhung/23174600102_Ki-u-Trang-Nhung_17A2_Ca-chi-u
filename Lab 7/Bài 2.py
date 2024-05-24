@@ -16,7 +16,7 @@ while True:
 for i in range(len(list)+ 1):
     for j in range(i):
         if list[j]["diem_thi"] < 4:
-            list[j]['hoc_luc'] == "F"
+            list[j]['hoc_luc'] = "F"
         elif 4 <= list[j]["diem_thi"] <= 5.4:
             list[j]['hoc_luc'] = "D"
         elif 5.5 <= list[j]["diem_thi"] <= 6.9:
@@ -45,11 +45,11 @@ for j in range(len(list)):
 
 for i in list: 
     print(i)
-    
-print(f"Số học sinh đạt điểm F là {F}")
-print(f"Số học sinh đạt điểm D là {D}")
-print(f"Số học sinh đạt điểm C là {C}")
-print(f"Số học sinh đạt điểm B là {B}")
-print(f"Số học sinh đạt điểm A là {A}")
+
+print(f"Số học sinh đạt điểm F là {F}.")
+print(f"Số học sinh đạt điểm D là {D}.")
+print(f"Số học sinh đạt điểm C là {C}.")
+print(f"Số học sinh đạt điểm B là {B}.")
+print(f"Số học sinh đạt điểm A là {A}.")
     
 
