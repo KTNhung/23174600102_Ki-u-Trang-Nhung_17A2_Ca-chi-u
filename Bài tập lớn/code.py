@@ -59,11 +59,6 @@ else:
     print("You lose.")
 
 
-
-
-
-
-
 path_hien_tai = os.getcwd()
 csv_path = path_hien_tai + "\\Bài tập lớn\\De_9.csv"
 file = open(csv_path, 'w', newline = '')
