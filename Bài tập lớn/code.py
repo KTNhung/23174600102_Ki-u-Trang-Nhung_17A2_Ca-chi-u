@@ -30,7 +30,7 @@ for i in danh_sach_mau:
 for i in so_luong_bong:
     X += so_luong_bong[i]
 xac_suat_rut_duoc_bong_cua_1_mau = (so_luong_bong[i])/X
-print(xac_suat_rut_duoc_bong_cua_1_mau)
+print("Xác xuất rút được bóng của 1 màu là:", xac_suat_rut_duoc_bong_cua_1_mau)
 
 flag = 0   
 i = 0
@@ -51,7 +51,7 @@ while i < 5:
     })
     i += 1 
 
-    if ds_so_mau_da_rut[a] == 2:
+    if ds_so_mau_da_rut[a] == 3:
         flag = 1
 if flag == 1:
     print("You win.")
@@ -60,7 +60,7 @@ else:
 
 
 path_hien_tai = os.getcwd()
-csv_path = path_hien_tai + "\\Bài tập lớn\\De_9.csv"
+csv_path = path_hien_tai + "\\De_9.csv"
 file = open(csv_path, 'w', newline = '')
 a = ["Mau_bong_rut", "Xac_suat_rut_duoc_bong_cua_1_mau", "So_luong_bong_con_lai"]
 write = csv.DictWriter(file, fieldnames= a)
